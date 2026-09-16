@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
@@ -122,7 +122,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 141
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "wwFN6My_GET_",
         "outputId": "ef45a47c-12a8-4503-eca3-ce5b402f73ba"
       },
@@ -177,7 +177,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 343
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "tMu1dAIHGzUX",
         "outputId": "06d4f8b8-8069-4ab8-816e-858e5a93cbe8"
       },
@@ -489,7 +489,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 300
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "G7K6hMBNiRY2",
         "outputId": "4ceb3b29-154b-44c5-8179-fc8f887f77f8"
       },
@@ -690,7 +690,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 743
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "lj1dTlaOIRyg",
         "outputId": "8e8e9263-5f6f-4ef5-d234-7f9b42cfab0f"
       },
@@ -887,7 +887,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 743
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "5mZqOSjcihTk",
         "outputId": "c1b1c56a-0513-4ab5-d5a5-ad35bb14ea86"
       },
@@ -1126,7 +1126,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 178
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "dhpYWLE0CVGD",
         "outputId": "bc6b554b-5fc1-4b51-d796-45e35c1e8d38"
       },
@@ -1206,7 +1206,7 @@
         },
         "id": "BMXIhYn4CmcZ",
         "outputId": "3b185048-48d5-440b-cd26-86a0d0b54be4",
-        "collapsed": true
+        "collapsed": True
       },
       "execution_count": null,
       "outputs": [
@@ -1241,7 +1241,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 570
         },
-        "collapsed": true,
+        "collapsed": True,
         "outputId": "e0e4a051-c7e8-49d7-e189-3b9684fb4998"
       },
       "execution_count": null,
@@ -1277,7 +1277,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 472
         },
-        "collapsed": true,
+        "collapsed": True,
         "outputId": "d074f89a-3892-4ee3-b140-d6f2bd1a1dbf"
       },
       "execution_count": null,
@@ -1313,7 +1313,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 472
         },
-        "collapsed": true,
+        "collapsed": True,
         "outputId": "f5797ef0-952d-4f46-9a9a-4f063edcb505"
       },
       "execution_count": null,
@@ -1349,7 +1349,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 570
         },
-        "collapsed": true,
+        "collapsed": True,
         "outputId": "0acc3023-97fe-48b3-ca94-759ceae94a1f"
       },
       "execution_count": null,
@@ -1385,7 +1385,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 530
         },
-        "collapsed": true,
+        "collapsed": True,
         "outputId": "8bd73853-b44d-40bd-ab98-765f1f263544"
       },
       "execution_count": null,
@@ -1425,7 +1425,7 @@
           "base_uri": "https://localhost:8080/",
           "height": 273
         },
-        "collapsed": true,
+        "collapsed": True,
         "outputId": "7f017890-5b12-4f59-bef3-aab4ea0674db"
       },
       "execution_count": null,
